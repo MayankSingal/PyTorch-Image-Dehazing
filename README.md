@@ -2,7 +2,8 @@
 PyTorch implementation of some single image dehazing networks. 
 
 Currently Implemented:
-AOD-Net
+**AOD-Net**: An extremely lightweight model (< 10 KB). Results are good.
+
 
 **Prerequisites:**
 1. Python 3 
