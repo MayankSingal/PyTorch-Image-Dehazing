@@ -17,7 +17,7 @@ Currently Implemented:
 1. Run train.py. The script will automatically dump some validation results into the "samples" folder after every epoch. The model snapshots are dumped in the "snapshots" folder. 
 
 **Testing:**
-1. Run dehaze.py. The script takes images in the "test_images" folder and dumps the dehazed images into the "results" folder.
+1. Run dehaze.py. The script takes images in the "test_images" folder and dumps the dehazed images into the "results" folder. A pre-trained snapshot has been provided in the snapshots folder.
 
 **Evaluation:**
 WIP.  
