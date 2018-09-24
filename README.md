@@ -14,7 +14,7 @@ Currently Implemented:
 2. Download and extract the dataset into "data" from the original author's project page. (https://sites.google.com/site/boyilics/website-builder/project-page). 
 
 **Training:**
-1. Run train.py. The script will automatically dump some validation results into the "samples" folder after every epoch.
+1. Run train.py. The script will automatically dump some validation results into the "samples" folder after every epoch. The model snapshots are dumped in the "snapshots" folder. 
 
 **Testing:**
 1. Run dehaze.py. The script takes images in the "test_images" folder and dumps the dehazed images into the "results" folder.
