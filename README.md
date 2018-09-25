@@ -23,8 +23,8 @@ Currently Implemented:
 WIP.  
 Some qualitative results are shown below:
 
-![Alt text](results/test.png?raw=true "Title")  
-![Alt text](results/test7.jpg?raw=true "Title")  
+![Alt text](results/man.png?raw=true "Title")  
+![Alt text](results/guogong.png?raw=true "Title")  
 ![Alt text](results/test4.jpg?raw=true "Title")  
 ![Alt text](results/test9.jpg?raw=true "Title")  
 ![Alt text](results/test13.jpg?raw=true "Title")  
